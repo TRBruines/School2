@@ -1,1 +1,2 @@
-test
+
+def inlezen_beginstation(stations):
